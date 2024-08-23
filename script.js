@@ -98,7 +98,7 @@ const nav = document.querySelector(".nav"),
 $(document).ready(function() {
     $('#btnDownload').click(function(e) {
         e.preventDefault();
-        window.location.href = "Bruno oyuko cv.pdf";
+        window.location.href = "Monicah Kerubo cv.pdf";
     });
 });
 
